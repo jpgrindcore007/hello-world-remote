@@ -1,2 +1,1 @@
-"bonjour!" 
-"my name is jp"
+bonjour !
